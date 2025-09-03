@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Arnav Taneja! 👋
 
-<!--
-**ArnavT27/ArnavT27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 👨‍🎓 About Me
+- **Student** passionate about problem solving and full-stack development
+- Skilled in **Java**, **MERN Stack**, and **Next.js**
+- Always eager to learn and take on new challenges in tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- **Languages:** Java, JavaScript (React, Node.js, Express, MongoDB), Next.js
+- **Frameworks/Tools:** MERN Stack, Next.js, REST APIs
+
+## 🌟 Achievements
+- Solved **500+ problems** on [Codeforces](https://codeforces.com/profile/arnavtaneja27) & [LeetCode](https://leetcode.com/u/ArnavT27/)
+- Earned the **Pupil** rank on Codeforces
+
+## 🏆 Featured Project
+### [Authentication](https://github.com/ArnavT27/Authentication)
+A robust authentication system built with the MERN stack.  
+> Explore the repo for implementation details, code samples, and how to integrate secure authentication into your own projects.
+
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/arnav-taneja-5179b2298/)
+- [LeetCode](https://leetcode.com/u/ArnavT27/)
+- [Codeforces](https://codeforces.com/profile/arnavtaneja27)
+
+## 💡 Fun Fact
+I thrive on challenging myself—whether it's building scalable web apps or climbing the ranks in competitive programming!
+
+---
+
+> “The only way to learn a new programming language is by writing programs in it.” – Dennis Ritchie
