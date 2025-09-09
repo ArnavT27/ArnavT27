@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 - Earned the **Pupil** rank on Codeforces
 
 ## 🏆 Featured Project
-### [Authentication](https://github.com/ArnavT27/Authentication)
+### [Authentication](https://github.com/ArnavT27/mern-auth)
 A robust authentication system built with the MERN stack.  
 > Explore the repo for implementation details, code samples, and how to integrate secure authentication into your own projects.
 
